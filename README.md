@@ -1,2 +1,3 @@
 # Machine_Learning_DS
-Machine learning codes for Data Science
+Machine Learning Codes for Data Science
+In this repository, you will find codes for ML models and algorithms 
