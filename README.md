@@ -16,7 +16,7 @@ In this repository, you will find codes for ML models and algorithms.
 
   Evaluation: The best-fit model for the IRIS dataset is identified based on the evaluation.
   
-###############################################################################################################################################################################################
+#######################################################################################################################################
 
 2. Linear Regression.ipynb
    This file contains a simple example of implementing linear regression in Python using NumPy and Matplotlib. The code demonstrates how to estimate the coefficients of a linear regression   
@@ -52,5 +52,11 @@ The data points and regression line are plotted using plot_regression(x, y, b).
 
 Output
 The estimated coefficients and the plot showing the data points and the regression line.
+
+##########################################################################################################################
+
+3. Linear regression(Simple_&_Multiple)model.ipynb
+    This code consists of two models simple and multiple where data of Boston is collected and trained and tested models.
+    output: Root mean square of model 1 is greater than model 2. Hence model 2 is the best fit.
    
    
