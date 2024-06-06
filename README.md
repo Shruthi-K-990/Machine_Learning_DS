@@ -69,4 +69,12 @@ This code evaluates a logistic regression model's performance using the ROC AUC 
 5. Naive Bayes.ipynb
 
 The provided code demonstrates implementing a Naive Bayes classifier using the scikit-learn library with the Iris dataset. It involves loading the dataset, splitting it into training and testing sets, training a Gaussian Naive Bayes classifier, making predictions on the test data, and evaluating the model's performance using accuracy, confusion matrix, and classification report. The classifier is trained on the training data and tested on unseen data to assess its effectiveness.
+
+##############################################################################################################
+
+6. SVM_Breast_CAncer_Dataset.ipynb
+
+This code demonstrates how to train and evaluate a Support Vector Machine (SVM) classifier with a linear kernel using the Breast Cancer dataset. The dataset is split into training and testing sets, and the SVM classifier is trained on the training data. Predictions are made on the test data, and the model's performance is evaluated using a confusion matrix and accuracy score. The confusion matrix and accuracy score are then printed to assess the classifier's effectiveness.
+
+######################################################################################################################
    
