@@ -78,3 +78,7 @@ This code demonstrates how to train and evaluate a Support Vector Machine (SVM) 
 
 ######################################################################################################################
    
+7. Random_Forest.ipynb
+
+  This code demonstrates the straightforward process of training and evaluating a Random Forest classifier for a multi-class classification task using the Iris dataset.
+  
