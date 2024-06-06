@@ -63,4 +63,10 @@ The estimated coefficients and the plot showing the data points and the regressi
 
 4. Logistic Regression.ipynb
 This code evaluates a logistic regression model's performance using the ROC AUC score and ROC curve. It calculates the ROC AUC score to summarize the model's discrimination ability. The ROC curve is plotted to visualize the true positive rate against the false positive rate at various thresholds. A random guess reference line is added for comparison. Finally, the plot is labeled and displayed, with a legend indicating the ROC AUC score.
+
+#################################################################################################################
+
+5. Naive Bayes.ipynb
+
+The provided code demonstrates implementing a Naive Bayes classifier using the scikit-learn library with the Iris dataset. It involves loading the dataset, splitting it into training and testing sets, training a Gaussian Naive Bayes classifier, making predictions on the test data, and evaluating the model's performance using accuracy, confusion matrix, and classification report. The classifier is trained on the training data and tested on unseen data to assess its effectiveness.
    
