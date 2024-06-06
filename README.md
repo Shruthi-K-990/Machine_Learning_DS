@@ -59,4 +59,8 @@ The estimated coefficients and the plot showing the data points and the regressi
     This code consists of two models simple and multiple where data of Boston is collected and trained and tested models.
     output: Root mean square of model 1 is greater than model 2. Hence model 2 is the best fit.
    
+#####################################################################################################################
+
+4. Logistic Regression.ipynb
+This code evaluates a logistic regression model's performance using the ROC AUC score and ROC curve. It calculates the ROC AUC score to summarize the model's discrimination ability. The ROC curve is plotted to visualize the true positive rate against the false positive rate at various thresholds. A random guess reference line is added for comparison. Finally, the plot is labeled and displayed, with a legend indicating the ROC AUC score.
    
